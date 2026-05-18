@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://stijndm.micro.blog/2026/05/16/154524.html",
+				
+				"content_html": "<div class=\"dubblepane wide\">\n    <p><img src=\"uploads/2026/7e3b71f8da.jpg\" alt=\"Een moderne, groene woontoren met planten die uit de gevels groeien, staat boven kleurrijke lagere gebouwen en een grasveld.\"></p>\n    <p><img src=\"uploads/2026/5f51dd8a2b.jpg\" alt=\"Een modern gebouw met verschillende verdiepingen waarop grote bakken met bomen en groen staan.\"></p>\n</div>\n<p>Op het Ketelhuisplein op de Strijp-s site in Eindhoven.</p>\n",
+				"content_text": "{{< dubblepane imageLeft=`<img src=\"uploads/2026/7e3b71f8da.jpg\" alt=\"Een moderne, groene woontoren met planten die uit de gevels groeien, staat boven kleurrijke lagere gebouwen en een grasveld.\">` imageRight=`<img src=\"uploads/2026/5f51dd8a2b.jpg\" alt=\"Een modern gebouw met verschillende verdiepingen waarop grote bakken met bomen en groen staan.\">` >}}\n\nOp het Ketelhuisplein op de Strijp-s site in Eindhoven.\n",
+				"date_published": "2026-05-16T15:45:24+02:00",
+				"url": "https://stijndm.be/2026/05/16/154524.html",
+				"tags": ["fotos"]
+			},
+			{
+				"id": "http://stijndm.micro.blog/2026/05/16/ik-kwam-ook-nog-een.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Ik kwam ook nog een boekenkastje tegen tijdens het lopen. Grote lezers hier in Eindhoven.</p>\n",
+				"content_text": "<img src=\"uploads/2026/ad9240e5b3.jpg\" alt=\"Een houten voordeur naast een glazen kast met boeken en een bloempot met planten ervoor.\">\n\nIk kwam ook nog een boekenkastje tegen tijdens het lopen. Grote lezers hier in Eindhoven. \n",
+				"date_published": "2026-05-16T12:18:51+02:00",
+				"url": "https://stijndm.be/2026/05/16/ik-kwam-ook-nog-een.html",
+				"tags": ["boeken","fotos"]
+			},
+			{
+				"id": "http://stijndm.micro.blog/2026/05/16/121004.html",
+				
+				"content_html": "<div class=\"dubblepane wide\">\n    <p><img src=\"uploads/2026/ca9c5a35b9.jpg\" alt=\"Een serene vijver omringd door weelderige groene bomen onder een blauwe hemel met enkele wolken.\"></p>\n    <p><img src=\"uploads/2026/ca2693c68f.jpg\" alt=\"Een bospad omringd door groene bomen en struiken, met een paar oude boomstronken.\"></p>\n</div>\n<div class=\"dubblepane wide\">\n    <p><img src=\"uploads/2026/04c85acfe0.jpg\" alt=\"Een groep koeien graast in een weelderige, groene omgeving bij een waterkant.\"></p>\n    <p><img src=\"uploads/2026/64b06b332b.jpg\" alt=\"Twee volwassen ganzen en hun kuikens staan op een grasachtige oever naast riet en water.\"></p>\n</div>\n<div class=\"dubblepane wide\">\n    <p><img src=\"uploads/2026/7f0ef0b0c8.jpg\" alt=\"Een kronkelend pad loopt door een groen park met bomen en gras onder een heldere blauwe hemel.\"></p>\n    <p><img src=\"uploads/2026/759ddf3082.jpg\" alt=\"Een pad loopt langs een rivier, omgeven door gras en bomen onder een blauwe lucht met enkele wolken.\"></p>\n</div>\n<p>Rondje gaan lopen in Eindhoven. Ik heb vooral de Dommel gevolgd. Verrassend groene omgeving zo in de stad. En veel diertjes. 😃</p>\n",
+				"content_text": "{{< dubblepane imageLeft=`<img src=\"uploads/2026/ca9c5a35b9.jpg\" alt=\"Een serene vijver omringd door weelderige groene bomen onder een blauwe hemel met enkele wolken.\">` imageRight=`<img src=\"uploads/2026/ca2693c68f.jpg\" alt=\"Een bospad omringd door groene bomen en struiken, met een paar oude boomstronken.\">` >}}\n\n{{< dubblepane imageLeft=`<img src=\"uploads/2026/04c85acfe0.jpg\" alt=\"Een groep koeien graast in een weelderige, groene omgeving bij een waterkant.\">` imageRight=`<img src=\"uploads/2026/64b06b332b.jpg\" alt=\"Twee volwassen ganzen en hun kuikens staan op een grasachtige oever naast riet en water.\">` >}}\n\n{{< dubblepane imageLeft=`<img src=\"uploads/2026/7f0ef0b0c8.jpg\" alt=\"Een kronkelend pad loopt door een groen park met bomen en gras onder een heldere blauwe hemel.\">` imageRight=`<img src=\"uploads/2026/759ddf3082.jpg\" alt=\"Een pad loopt langs een rivier, omgeven door gras en bomen onder een blauwe lucht met enkele wolken.\">` >}}\n\nRondje gaan lopen in Eindhoven. Ik heb vooral de Dommel gevolgd. Verrassend groene omgeving zo in de stad. En veel diertjes. 😃\n",
+				"date_published": "2026-05-16T12:10:04+02:00",
+				"url": "https://stijndm.be/2026/05/16/121004.html",
+				"tags": ["fotos","(trail) running"]
+			},
+			{
 				"id": "http://stijndm.micro.blog/2026/05/15/veel-groen-in-de-straten.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Veel groen in de straten van Eindhoven. Veel te zien en veel te doen.</p>\n",
@@ -26,8 +53,8 @@
 			{
 				"id": "http://stijndm.micro.blog/2026/05/14/215216.html",
 				
-				"content_html": "<div class=\"dubblepane wide\">\n    <p><img src=\"uploads/2026/7f1c32f9df.jpg\" alt=\"Een gezellige kamer met een grote boekenkast vol boeken, een kaart van Europa aan de muur, een bed met een roze deken en een klein tafeltje met een plant erop.\"> </p>\n    <p><img src=\"uploads/2026/0cc6ff7500.jpg\" alt=\"Een gevulde boekenkast met een televisie en elektronische apparatuur op de onderste plank.\"> </p>\n</div>\n<p>En binnen in de voormalige fotostudio een grote kast gevuld, met voornamelijk boeken over fotografie en kunst.</p>\n",
-				"content_text": "{{< dubblepane imageLeft=`<img src=\"uploads/2026/7f1c32f9df.jpg\" alt=\"Een gezellige kamer met een grote boekenkast vol boeken, een kaart van Europa aan de muur, een bed met een roze deken en een klein tafeltje met een plant erop.\"> ` imageRight=`<img src=\"uploads/2026/0cc6ff7500.jpg\" alt=\"Een gevulde boekenkast met een televisie en elektronische apparatuur op de onderste plank.\"> ` >}}\n\nEn binnen in de voormalige fotostudio een grote kast gevuld, met voornamelijk boeken over fotografie en kunst. \n",
+				"content_html": "<div class=\"dubblepane wide\">\n    <p><img src=\"https://eu.uploads.micro.blog/179241/2026/7f1c32f9df.jpg\" alt=\"Een gezellige kamer met een grote boekenkast vol boeken, een kaart van Europa aan de muur, een bed met een roze deken en een klein tafeltje met een plant erop.\"> </p>\n    <p><img src=\"https://eu.uploads.micro.blog/179241/2026/0cc6ff7500.jpg\" alt=\"Een gevulde boekenkast met een televisie en elektronische apparatuur op de onderste plank.\"> </p>\n</div>\n<p>En binnen in de voormalige fotostudio een grote kast gevuld, met voornamelijk boeken over fotografie en kunst.</p>\n",
+				"content_text": "{{< dubblepane imageLeft=`<img src=\"https://eu.uploads.micro.blog/179241/2026/7f1c32f9df.jpg\" alt=\"Een gezellige kamer met een grote boekenkast vol boeken, een kaart van Europa aan de muur, een bed met een roze deken en een klein tafeltje met een plant erop.\"> ` imageRight=`<img src=\"https://eu.uploads.micro.blog/179241/2026/0cc6ff7500.jpg\" alt=\"Een gevulde boekenkast met een televisie en elektronische apparatuur op de onderste plank.\"> ` >}}\n\nEn binnen in de voormalige fotostudio een grote kast gevuld, met voornamelijk boeken over fotografie en kunst. \n",
 				"date_published": "2026-05-14T21:52:16+02:00",
 				"url": "https://stijndm.be/2026/05/14/215216.html",
 				"tags": ["boeken","fotos","reizen"]
@@ -36,7 +63,7 @@
 				"id": "http://stijndm.micro.blog/2026/05/14/onze-airbnb-heeft-een-eigen.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Onze Airbnb heeft een eigen boekenkast naast de voordeur. ☺️</p>\n",
-				"content_text": "<img src=\"uploads/2026/c16685d0ad.jpg\" alt=\"Een blauwe deur naast een felblauwe boekenruilkast aan een bakstenen muur.\">\n\nOnze Airbnb heeft een eigen boekenkast naast de voordeur. ☺️\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/179241/2026/c16685d0ad.jpg\" alt=\"Een blauwe deur naast een felblauwe boekenruilkast aan een bakstenen muur.\">\n\nOnze Airbnb heeft een eigen boekenkast naast de voordeur. ☺️\n",
 				"date_published": "2026-05-14T21:49:18+02:00",
 				"url": "https://stijndm.be/2026/05/14/onze-airbnb-heeft-een-eigen.html",
 				"tags": ["boeken","fotos","reizen"]
@@ -44,8 +71,8 @@
 			{
 				"id": "http://stijndm.micro.blog/2026/05/14/174616.html",
 				
-				"content_html": "<div class=\"dubblepane wide\">\n    <p><img src=\"uploads/2026/72fef6bb05.jpg\" alt=\"Een idyllische landelijke scène met een kronkelende rivier, bomen en een grasveld onder een bewolkte hemel.\"> </p>\n    <p><img src=\"uploads/2026/c01342a6c0.jpg\" alt=\"Schapen grazen in een grasveld met een bos op de achtergrond.\"> </p>\n</div>\n<p>Uurtje los lopen. Bizar weer. Half uurtje zon, half uurtje regen.</p>\n",
-				"content_text": "{{< dubblepane imageLeft=`<img src=\"uploads/2026/72fef6bb05.jpg\" alt=\"Een idyllische landelijke scène met een kronkelende rivier, bomen en een grasveld onder een bewolkte hemel.\"> ` imageRight=`<img src=\"uploads/2026/c01342a6c0.jpg\" alt=\"Schapen grazen in een grasveld met een bos op de achtergrond.\"> ` >}}\n\nUurtje los lopen. Bizar weer. Half uurtje zon, half uurtje regen. \n",
+				"content_html": "<div class=\"dubblepane wide\">\n    <p><img src=\"https://eu.uploads.micro.blog/179241/2026/72fef6bb05.jpg\" alt=\"Een idyllische landelijke scène met een kronkelende rivier, bomen en een grasveld onder een bewolkte hemel.\"> </p>\n    <p><img src=\"https://eu.uploads.micro.blog/179241/2026/c01342a6c0.jpg\" alt=\"Schapen grazen in een grasveld met een bos op de achtergrond.\"> </p>\n</div>\n<p>Uurtje los lopen. Bizar weer. Half uurtje zon, half uurtje regen.</p>\n",
+				"content_text": "{{< dubblepane imageLeft=`<img src=\"https://eu.uploads.micro.blog/179241/2026/72fef6bb05.jpg\" alt=\"Een idyllische landelijke scène met een kronkelende rivier, bomen en een grasveld onder een bewolkte hemel.\"> ` imageRight=`<img src=\"https://eu.uploads.micro.blog/179241/2026/c01342a6c0.jpg\" alt=\"Schapen grazen in een grasveld met een bos op de achtergrond.\"> ` >}}\n\nUurtje los lopen. Bizar weer. Half uurtje zon, half uurtje regen. \n",
 				"date_published": "2026-05-14T17:46:16+02:00",
 				"url": "https://stijndm.be/2026/05/14/174616.html",
 				"tags": ["fotos","(trail) running"]
