@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://stijndm.micro.blog/2026/10/22/zoveel-heisa-gisteren-voor-de.html",
+				
+				"content_html": "<p>Zoveel heisa gisteren voor de PHP2Shell exploits. Zit ik hier met nog 2 PHP sites die op een versie draaien die te oud is voor de exploits. 😂</p>\n<p>Ik heb ze nu toevallig de voorbije week geëxporteerd naar static sites zodat ik ze in archive mode kan hosten. En dan kan die oude server ook gewoon uit. 🙈</p>\n",
+				"content_text": "Zoveel heisa gisteren voor de PHP2Shell exploits. Zit ik hier met nog 2 PHP sites die op een versie draaien die te oud is voor de exploits. 😂\n\nIk heb ze nu toevallig de voorbije week geëxporteerd naar static sites zodat ik ze in archive mode kan hosten. En dan kan die oude server ook gewoon uit. 🙈\n",
+				"date_published": "2026-10-22T11:17:49+02:00",
+				"url": "https://stijndm.be/2026/10/22/zoveel-heisa-gisteren-voor-de.html",
+				"tags": ["rabbit hole"]
+			},
+			{
 				"id": "http://stijndm.micro.blog/2026/10/19/blij-dat-ik-zaterdag-nog.html",
 				
-				"content_html": "<img src=\"uploads/2026/c027cebb-e49c-4714-8970-f4593e67e440.jpg\" alt=\"Een zandpad kronkelt door een uitgestrekt, zonnig duinlandschap met lage begroeiing en een blauwe lucht.\">\n<p>Blij dat ik zaterdag nog even van de zo genoten heb. Gisteren en vandaag zijn maar erg grijs.</p>\n",
-				"content_text": "<img src=\"uploads/2026/c027cebb-e49c-4714-8970-f4593e67e440.jpg\" alt=\"Een zandpad kronkelt door een uitgestrekt, zonnig duinlandschap met lage begroeiing en een blauwe lucht.\">\n\nBlij dat ik zaterdag nog even van de zo genoten heb. Gisteren en vandaag zijn maar erg grijs. \n",
+				"content_html": "<img src=\"uploads/2026/c027cebb-e49c-4714-8970-f4593e67e440.jpg\" alt=\"Een zandpad kronkelt door een uitgestrekt, zonnig duinlandschap met lage begroeiing en een blauwe lucht.\">\n<p>Blij dat ik zaterdag nog even van de zon genoten heb. Gisteren en vandaag zijn maar erg grijs.</p>\n",
+				"content_text": "<img src=\"uploads/2026/c027cebb-e49c-4714-8970-f4593e67e440.jpg\" alt=\"Een zandpad kronkelt door een uitgestrekt, zonnig duinlandschap met lage begroeiing en een blauwe lucht.\">\n\nBlij dat ik zaterdag nog even van de zon genoten heb. Gisteren en vandaag zijn maar erg grijs. \n",
 				"date_published": "2026-10-19T10:08:50+02:00",
 				"url": "https://stijndm.be/2026/10/19/blij-dat-ik-zaterdag-nog.html",
 				"tags": ["fotos","(trail) running","outdoor"]
