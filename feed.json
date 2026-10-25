@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://stijndm.micro.blog/2026/10/25/wat-een-paar-weken-geleden.html",
+				
+				"content_html": "<p>Wat een paar weken geleden begonnen was als een proof of concept app met een 3-tal schermen is hier op een weekend tijd uitgegroeid tot een volwaardige full featured app. Hopelijk kan ik in de loop van de week een testflight lanceren. Nog wat mijn weg zoeken in die App Store Connect. 😅</p>\n",
+				"content_text": "Wat een paar weken geleden begonnen was als een proof of concept app met een 3-tal schermen is hier op een weekend tijd uitgegroeid tot een volwaardige full featured app. Hopelijk kan ik in de loop van de week een testflight lanceren. Nog wat mijn weg zoeken in die App Store Connect. 😅 \n",
+				"date_published": "2026-10-25T11:35:58+01:00",
+				"url": "https://stijndm.be/2026/10/25/wat-een-paar-weken-geleden.html",
+				"tags": ["rabbit hole"]
+			},
+			{
+				"id": "http://stijndm.micro.blog/2026/10/22/watched-slow-horses-season-nog.html",
+				
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fw2jauz2PeSjFQifDObI3qDen4f7.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>📺 Watched: <a href=\"https://www.themoviedb.org/tv/95480/season/6\">Slow Horses Season 6</a></p>\n<p>Nog steeds een van de beste series van het moment, maar godammit, was die cliffhanger echt nodig?!\nIk ben blij dat er nog een seizoen komt, ik kijk er naar uit.</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2Fw2jauz2PeSjFQifDObI3qDen4f7.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n📺 Watched: [Slow Horses Season 6](https://www.themoviedb.org/tv/95480/season/6)\n\nNog steeds een van de beste series van het moment, maar godammit, was die cliffhanger echt nodig?!\nIk ben blij dat er nog een seizoen komt, ik kijk er naar uit.\n",
+				"date_published": "2026-10-22T10:21:25+01:00",
+				"url": "https://stijndm.be/2026/10/22/watched-slow-horses-season-nog.html",
+				"tags": ["film \u0026 tv"]
+			},
+			{
 				"id": "http://stijndm.micro.blog/2026/10/22/zoveel-heisa-gisteren-voor-de.html",
 				
 				"content_html": "<p>Zoveel heisa gisteren voor de PHP2Shell exploits. Zit ik hier met nog 2 PHP sites die op een versie draaien die te oud is voor de exploits. 😂</p>\n<p>Ik heb ze nu toevallig de voorbije week geëxporteerd naar static sites zodat ik ze in archive mode kan hosten. En dan kan die oude server ook gewoon uit. 🙈</p>\n",
 				"content_text": "Zoveel heisa gisteren voor de PHP2Shell exploits. Zit ik hier met nog 2 PHP sites die op een versie draaien die te oud is voor de exploits. 😂\n\nIk heb ze nu toevallig de voorbije week geëxporteerd naar static sites zodat ik ze in archive mode kan hosten. En dan kan die oude server ook gewoon uit. 🙈\n",
-				"date_published": "2026-10-22T11:17:49+02:00",
+				"date_published": "2026-10-22T10:17:49+01:00",
 				"url": "https://stijndm.be/2026/10/22/zoveel-heisa-gisteren-voor-de.html",
 				"tags": ["rabbit hole"]
 			},
@@ -20,7 +38,7 @@
 				
 				"content_html": "<img src=\"uploads/2026/c027cebb-e49c-4714-8970-f4593e67e440.jpg\" alt=\"Een zandpad kronkelt door een uitgestrekt, zonnig duinlandschap met lage begroeiing en een blauwe lucht.\">\n<p>Blij dat ik zaterdag nog even van de zon genoten heb. Gisteren en vandaag zijn maar erg grijs.</p>\n",
 				"content_text": "<img src=\"uploads/2026/c027cebb-e49c-4714-8970-f4593e67e440.jpg\" alt=\"Een zandpad kronkelt door een uitgestrekt, zonnig duinlandschap met lage begroeiing en een blauwe lucht.\">\n\nBlij dat ik zaterdag nog even van de zon genoten heb. Gisteren en vandaag zijn maar erg grijs. \n",
-				"date_published": "2026-10-19T10:08:50+02:00",
+				"date_published": "2026-10-19T09:08:50+01:00",
 				"url": "https://stijndm.be/2026/10/19/blij-dat-ik-zaterdag-nog.html",
 				"tags": ["fotos","(trail) running","outdoor"]
 			},
@@ -29,7 +47,7 @@
 				
 				"content_html": "<p>Veel plannen gemaakt vandaag. Nu kijken om ze de komende weken ook uit te voeren. 😬</p>\n",
 				"content_text": "Veel plannen gemaakt vandaag. Nu kijken om ze de komende weken ook uit te voeren. 😬\n",
-				"date_published": "2026-10-16T19:22:52+02:00",
+				"date_published": "2026-10-16T18:22:52+01:00",
 				"url": "https://stijndm.be/2026/10/16/veel-plannen-gemaakt-vandaag-nu.html",
 				"tags": ["rabbit hole"]
 			},
@@ -47,7 +65,7 @@
 				"title": "Gelezen: The Way of All Flesh",
 				"content_html": "<div class=\"bookpost wide\">\n\t<div class=\"bookpost-image\">\n    <p><img src=\"uploads/2026/4831fb43-cb14-4ea1-b5ee-133111e9d8c1.jpg\" alt=\"Een boek met de titel The Way of All Flesh van Ambrose Parry ligt op een stenen oppervlak naast een roestige metalen ring.\"></p>\n\t</div>\n\t<div class=\"bookpost-body\">\n\t\t<p>Ik voelde me toch wat bedrogen uitgekomen bij dit boek. Wat gemarket wordt als een aangrijpende historische misdaadroman in de 19e eeuw, waar onze accidental onderzoekers de donkere krochten van de onderwereld moeten induiken, draaide voor mij uit op een behoorlijk voorspelbaar en flauw geheel.</p>\n<p>Eén keer gaan ze wat vragen stellen aan een barman in een café in een achtergestelde wijk van Edinburgh. De rest van het verhaal speelt zich vooral af in de ietwat elitaire wereld van een groep artsen en in het hoofd van de student arts Will Raven. Ik denk dat we halfweg het boek zijn eer er een tweede moord gebeurt en er sprake is van een patroon. Tegen die wist ik al lang waar we aan toe waren. Na de eerste hoofdstukken was ik al behoorlijk zeker over het motief van de moord, de verwante sociale thema’s waren niet bepaald verstopt, en had ik de dader ook al aangeduid zodra hij geïntroduceerd werd.</p>\n<p>Het is wel een interessante studie van de Victoriaanse geneeskunde en de aansluitende thema’s rond zwangerschap en abortus. Het is duidelijk dat er veel tijd is gestoken in het nodige onderzoek om hier een getrouw, en bij momenten grafisch beeld te schetsen. Wat het nog enigszins boeiend maakte. Verhaaltechnisch is er wel nog wat werk nodig om het effectief ook spannend te maken. Als misdaadroman is het voor mij een sisser.</p>\n<p>★★½</p>\n\n\t</div>\n</div>\n",
 				"content_text": "{{< bookpost image=`<img src=\"uploads/2026/4831fb43-cb14-4ea1-b5ee-133111e9d8c1.jpg\" alt=\"Een boek met de titel The Way of All Flesh van Ambrose Parry ligt op een stenen oppervlak naast een roestige metalen ring.\">` >}}\n\nIk voelde me toch wat bedrogen uitgekomen bij dit boek. Wat gemarket wordt als een aangrijpende historische misdaadroman in de 19e eeuw, waar onze accidental onderzoekers de donkere krochten van de onderwereld moeten induiken, draaide voor mij uit op een behoorlijk voorspelbaar en flauw geheel.\n\nEén keer gaan ze wat vragen stellen aan een barman in een café in een achtergestelde wijk van Edinburgh. De rest van het verhaal speelt zich vooral af in de ietwat elitaire wereld van een groep artsen en in het hoofd van de student arts Will Raven. Ik denk dat we halfweg het boek zijn eer er een tweede moord gebeurt en er sprake is van een patroon. Tegen die wist ik al lang waar we aan toe waren. Na de eerste hoofdstukken was ik al behoorlijk zeker over het motief van de moord, de verwante sociale thema’s waren niet bepaald verstopt, en had ik de dader ook al aangeduid zodra hij geïntroduceerd werd. \n\nHet is wel een interessante studie van de Victoriaanse geneeskunde en de aansluitende thema’s rond zwangerschap en abortus. Het is duidelijk dat er veel tijd is gestoken in het nodige onderzoek om hier een getrouw, en bij momenten grafisch beeld te schetsen. Wat het nog enigszins boeiend maakte. Verhaaltechnisch is er wel nog wat werk nodig om het effectief ook spannend te maken. Als misdaadroman is het voor mij een sisser.\n\n★★½ \n\n{{< /bookpost >}}\n",
-				"date_published": "2026-10-07T20:13:37+02:00",
+				"date_published": "2026-10-07T19:13:37+01:00",
 				"url": "https://stijndm.be/2026/10/07/gelezen-the-way-of-all.html",
 				"tags": ["boeken"]
 			},
