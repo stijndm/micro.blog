@@ -7,13 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://stijndm.micro.blog/2026/10/26/mij-de-voorbije-weken-al.html",
+				
+				"content_html": "<p>Mij de voorbije weken al goed geamuseerd met Indiana Jones and The Great Circle. Aanrader.</p>\n",
+				"content_text": "Mij de voorbije weken al goed geamuseerd met Indiana Jones and The Great Circle. Aanrader. \n",
+				"date_published": "2026-10-26T11:54:01+01:00",
+				"url": "https://stijndm.be/2026/10/26/mij-de-voorbije-weken-al.html",
+				"tags": ["rabbit hole"]
+			},
+			{
+				"id": "http://stijndm.micro.blog/2026/10/25/ik-heb-de-full-sync.html",
+				
+				"content_html": "<p>Ik heb de full sync van mijn iCloud Photo Library moeten uitzetten. Schijf stond op een paar gig na vol. Ik kon geen app builds meer draaien of containers opstarten. 😢</p>\n<p>Eigenlijk wil ik een Mac Mini zetten, dan kan ik mijn library naar een external disk laten gaan, maar die is er nog niet. Iemand ervaring met tools als <a href=\"https://github.com/boredazfcuk/docker-icloudpd\">icloudpd</a>, of iets anders waarmee ik een full sync op mijn NAS krijg?</p>\n",
+				"content_text": "Ik heb de full sync van mijn iCloud Photo Library moeten uitzetten. Schijf stond op een paar gig na vol. Ik kon geen app builds meer draaien of containers opstarten. 😢\n\nEigenlijk wil ik een Mac Mini zetten, dan kan ik mijn library naar een external disk laten gaan, maar die is er nog niet. Iemand ervaring met tools als [icloudpd](https://github.com/boredazfcuk/docker-icloudpd), of iets anders waarmee ik een full sync op mijn NAS krijg? \n",
+				"date_published": "2026-10-25T23:01:21+01:00",
+				"url": "https://stijndm.be/2026/10/25/ik-heb-de-full-sync.html",
+				"tags": ["rabbit hole"]
+			},
+			{
 				"id": "http://stijndm.micro.blog/2026/10/25/wat-een-paar-weken-geleden.html",
 				
 				"content_html": "<p>Wat een paar weken geleden begonnen was als een proof of concept app met een 3-tal schermen is hier op een weekend tijd uitgegroeid tot een volwaardige full featured app. Hopelijk kan ik in de loop van de week een testflight lanceren. Nog wat mijn weg zoeken in die App Store Connect. 😅</p>\n",
 				"content_text": "Wat een paar weken geleden begonnen was als een proof of concept app met een 3-tal schermen is hier op een weekend tijd uitgegroeid tot een volwaardige full featured app. Hopelijk kan ik in de loop van de week een testflight lanceren. Nog wat mijn weg zoeken in die App Store Connect. 😅 \n",
 				"date_published": "2026-10-25T11:35:58+01:00",
 				"url": "https://stijndm.be/2026/10/25/wat-een-paar-weken-geleden.html",
-				"tags": ["rabbit hole"]
+				"tags": ["rabbit hole","projectjes"]
 			},
 			{
 				"id": "http://stijndm.micro.blog/2026/10/22/watched-slow-horses-season-nog.html",
